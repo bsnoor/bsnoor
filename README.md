@@ -5,4 +5,4 @@
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me on Twitter
 - 😄 Pronouns she/her
-- ⚡ Fun fact :)
+
