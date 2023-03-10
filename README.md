@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nour Bsoul</h1>
+<h1 align="center">Hi 👋, I'm Noor Bsoul</h1>
 <h3 align="center">An Algorithm Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsnoor&label=Profile%20views&color=0e75b6&style=flat" alt="bsnoor" /> </p>
